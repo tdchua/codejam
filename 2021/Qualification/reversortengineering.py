@@ -1,3 +1,4 @@
+#This solution only pased sample test 1..
 def generate_my_permutations(N, explored, to_explore):
   global permutations
 
